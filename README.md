@@ -4,6 +4,10 @@
 
 This project analyzes an e-commerce customer dataset using **PostgreSQL** and **Microsoft Power BI**.
 
+## 📊 Power BI Dashboard
+
+[E-Commerce Customer Analytics Dashboard](E_Commerce_Customer_Analytics_Dashboard.png)
+
 The objective is to explore customer demographics, geographic distribution, customer segments, and acquisition costs, and convert the analysis into meaningful business insights.
 
 The project combines **SQL data analysis** with an interactive **Power BI dashboard** to provide a complete customer analytics solution.
