@@ -149,8 +149,7 @@ The SQL analysis was converted into an interactive Power BI dashboard.
 
 ### Key Dashboard KPIs
 
- KPI Value 
-|
+ KPI Value :
  Total Customers is 25,000 
  Average Customer Age is 45.91 
  Average Acquisition Cost is 42.16 
